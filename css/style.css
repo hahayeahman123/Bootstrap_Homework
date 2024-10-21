@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 20px;
+}
+
+.container-fluid{
+    background-color: #eee;
+    padding: 20px;
+}
+
+.block{
+    background-color: #fff;
+}
+
+.info{
+    display: flex;
+    padding-bottom: 15px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: large;
+}
+
+p{
+    font-size: smaller;
+}
+
+.name{
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+h6{
+    font-size: small;
+}
